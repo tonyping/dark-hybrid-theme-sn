@@ -1,5 +1,10 @@
 # Dark Hybrid Theme Extension for Standard Notes
 
+![alt text](preview.png "Dark Hybrid on Linux App")
+
+### Note: 
+This theme currently **only works on the standalone apps** for Windows, Linux and probably Mac? (msg me to confirm this if you try it)
+
 ### Install to Standard Notes
 
 1) In the Extensions window, click "Import Extension", and paste in this JSON endpoint: https://jakecza.com/cloud/projects/sn-extensions/dark-hybrid-theme/dark-hybrid.json
