@@ -1,3 +1,20 @@
+@import url('https://fontlibrary.org/face/css?office-code-pro')
+
+.editor-content .editable {
+  font-family: Office Code Pro D !important;
+  font-weight: 500 !important;
+}
+
+#note-text-editor {
+  font-family: Office Code Pro D !important;
+  font-weight: 500 !important;
+}
+
+.CodeMirror {
+  font-family: Office Code Pro D !important;
+  font-weight: 500 !important;
+}
+
 :root {
   --background-1: #1E1F21;
   --background-2: #2D2D2D;
