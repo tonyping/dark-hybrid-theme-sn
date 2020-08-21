@@ -31,4 +31,5 @@ jobs:
       uses: actions/setup-node@v1.4.3         
     - run: |
         npm install -g grunt-cli
+        npm install grunt --save-dev
         grunt
