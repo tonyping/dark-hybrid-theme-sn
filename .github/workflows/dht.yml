@@ -29,7 +29,6 @@ jobs:
     #- name: Run a multi-line script
     - name: Setup Node.js environment
       uses: actions/setup-node@v1.4.3         
-    run: |
-      npm install -g grunt-cli
-    # npm install grunt --save-dev
-grunt
+    - run: |
+        npm install -g grunt-cli
+        grunt
