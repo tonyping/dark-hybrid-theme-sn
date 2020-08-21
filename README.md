@@ -1,4 +1,4 @@
-![CI](https://github.com/tonyping/dark-hybrid-theme-sn/workflows/CI/badge.svg)
+![CI](https://github.com/tonyping/dark-hybrid-theme-sn/workflows/build-dht/badge.svg)
 
 # Dark Hybrid Theme Extension for Standard Notes
 
