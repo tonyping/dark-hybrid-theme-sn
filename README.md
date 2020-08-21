@@ -1,3 +1,5 @@
+![CI](https://github.com/tonyping/dark-hybrid-theme-sn/workflows/CI/badge.svg?branch=master&event=workflow_run)
+
 # Dark Hybrid Theme Extension for Standard Notes
 
 ![alt text](preview.png "Dark Hybrid on Linux App")
